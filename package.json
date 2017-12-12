@@ -1,0 +1,14 @@
+{
+  "name": "campground-hotspot-auto-signon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "request": "^2.83.0"
+  }
+}
